@@ -1,4 +1,4 @@
-# Rocketi
+# Roketi
 
 • Credits •
 
